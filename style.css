@@ -3,6 +3,6 @@ body{
 }
 
 .pagecover{
-    background-image: url(/LearningBirdTamil-cover.png);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),url(/LearningBirdTamil-cover.png);
     opacity:0.5;
 }
